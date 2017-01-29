@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tom and Jerry</string>
+    <string name="company">Tom and Jerry</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Sign In</string>
+    <string name="logout">Log out</string>
+    <string name="facebook">Sign in with Facebook</string>
+    <string name="googleplus">Sign in with Google+</string>
+</resources>
